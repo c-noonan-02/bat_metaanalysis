@@ -1,0 +1,3 @@
+A repository containing several subrepositories involved in a meta-analysis conducted during 2025 as part of the assessment for the 'Eco-Evolutionary Responses to Anthropogenic Change' course in my MSc in Ecology, Evolution and Biodiversity at the University of Edinburgh.
+
+This meta-analysis aims to determine if bats are showing consistent behavioural changes in response to artificial light at night (ALAN). I conducted a search on WebOFScience, and extracted effect sizes from current studies using light treatment / dark control survey designs. I tested impacts on both timing of first nocturnal activity, and the total ammount of activity. I also identified current limitations in the existing literature and experimental designs.
