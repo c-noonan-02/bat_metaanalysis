@@ -7,3 +7,6 @@
 [submodule "metaanalysis_analysis"]
 	path = metaanalysis_analysis
 	url = https://github.com/c-noonan-02/metaanalysis_analysis.git
+[submodule "metaanalysis_raw_data"]
+	path = metaanalysis_raw_data
+	url = https://github.com/c-noonan-02/metaanalysis_raw_data.git
