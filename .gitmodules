@@ -1,3 +1,6 @@
 [submodule "metaanalysis_screening"]
 	path = metaanalysis_screening
 	url = https://github.com/c-noonan-02/metaanalysis_screening.git
+[submodule "metaanalysis_extraction"]
+	path = metaanalysis_extraction
+	url = https://github.com/c-noonan-02/metaanalysis_extraction.git
